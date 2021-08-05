@@ -4,7 +4,7 @@
   <p align="center">
     <a href="https://discord.com/users/466217857609498627" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/discord-apps-platform-512.png" width="30px" heigth= "30px" /></a>
 <br/><br/>
-    <a href="https://tantoony.net" target="_blank"><img src="https://profile-counter.glitch.me/{Morsteo-JS}/count.svg" /></a>
+    <a href="https://github.com/Morsteo-JS" target="_blank"><img src="https://profile-counter.glitch.me/{Morsteo-JS}/count.svg" /></a>
    </p>
  </div>
   <!--
